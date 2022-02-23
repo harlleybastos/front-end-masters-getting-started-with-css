@@ -25,12 +25,15 @@
 </p>
 
 <!-- Status -->
+<hr>
 
-<!-- <h4 align="center"> 
-	🚧  Front End Masters Getting Started With Css 🚀 Under construction...  🚧
+## :chart_with_upwards_trend: Status ##
+
+<h4 align="center"> 
+	  Front End Masters Getting Started With Css 🚀 is completed !  ✅
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -55,7 +58,7 @@ Course videos available at https://frontendmasters.com/courses/getting-started-c
 ## :sparkles: Features ##
 
 :heavy_check_mark: Portfolio Layout;\
-:heavy_check_mark: Responsivity;\
+:heavy_check_mark: Responsivity;
 
 ## :rocket: Technologies ##
 
