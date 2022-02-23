@@ -15,7 +15,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/harlleybastos/front-end-masters-getting-started-with-css?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/harlleybastos/front-end-masters-getting-started-with-css?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/harlleybastos/front-end-masters-getting-started-with-css?color=56BEB8" /> -->
 
@@ -41,7 +40,6 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/harlleybastos" target="_blank">Author</a>
 </p>
 
@@ -82,11 +80,6 @@ $ cd front-end-masters-getting-started-with-css
 
 # The start the website you will need to open the index.html file on the browser.
 ```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/harlleybastos" target="_blank">Harlley Bastos</a>
 
