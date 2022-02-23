@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="assets/img/website-gif.gif" alt="Front End Masters Getting Started With Css" />
+  <img src="assets/img/website-gif.gif" alt="Front End Masters Getting Started With Css" s />
 
   &#xa0;
 
-  <!-- <a href="https://frontendmastersgettingstartedwithcss.netlify.app">Demo</a> -->
+  <a href="https://harlleybastos.github.io/front-end-masters-getting-started-with-css/">Demo</a>
 </div>
 
 <h1 align="center">Front End Masters Getting Started With CSS</h1>
